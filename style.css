@@ -1,3 +1,20 @@
 img {
     height: 150px;
 }
+
+.description {
+    font-size: 20px;
+}
+
+#cook-time {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#cook-time a {
+    font-weight: normal;
+}
+
+.ingredients li {
+    list-style: square;
+}
