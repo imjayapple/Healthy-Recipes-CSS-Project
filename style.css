@@ -38,3 +38,13 @@ p.time {
 a.external-link {
     color: seagreen;
 }
+
+.ingredients a {
+    opacity: 0.8;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#vol {
+    accent-color: #3B731A;
+}
