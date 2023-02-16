@@ -18,3 +18,15 @@ img {
 .ingredients li {
     list-style: square;
 }
+
+.time {
+    color: #fff;
+    background-color: grey;
+    opacity: 0.7;
+    border-style: groove;
+    border-color: #21400F;
+    border-width: 6px;
+    text-align: center;
+    border-radius: 3%;
+    max-width: 150px;
+}
